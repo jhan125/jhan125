@@ -61,7 +61,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhan125&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhan125&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhan125&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jhan125/github-readme-stats)
 
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
