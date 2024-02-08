@@ -6,27 +6,32 @@
 <p align='center'>
 </p>
 
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=jhan125.jhan125)
 [![Github](https://img.shields.io/github/followers/jhan125?label=Follow&style=social)](https://github.com/jhan125)
 
 <h3> 👩🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; I’m currently a Master's student majoring in Computer Science at Northeastern University.
 - 🌱 &nbsp; I'm an enthusiast in full-stack and cloud computing.
-- 💪 &nbsp; I'm learning Java and React as a full-stack developer.
-- 🤔 &nbsp; I like exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; I look forward to the incoming summer internship at Amazon.
-- 😴 &nbsp; I belive music and workouts can be the ultimate solution for any stress. 
+- 💪 &nbsp; I'm skilled in Java and React as a full-stack developer, with proficiency in Node.js, Express, and MongoDB forming my primary technology stack.
+- 🤔 &nbsp; I like exploring new technologies and developing software solutions and quick hacks. 
+- 💼 &nbsp; I completed my Software Engineer summer internship at Amazon in 2023, where I had the opportunity to work on scalable, distributed software systems and gained practical experience with AWS, further solidifying my interest and expertise in cloud solutions.
+- 🖱️ &nbsp; I'm excited to join Salesforce as a Software Engineer Intern this summer where I will be part of the Financial Cloud team, focusing on developing and enhancing cloud technology solutions that empower financial services with more efficiency and scalability.
+- 😴 &nbsp; I believe music and workouts can be the ultimate solution for any stress.
+
 
 
 <h3> 🛠 Tech Stack </h3>
 
-- 💻 &nbsp; Java | Python | JavaScript | React | C | Golang
-- 🌐 &nbsp; React | HTML5 | CSS3 | JavaScript | TypeScript | NodeJS 
-- 🛢 &nbsp; MySQL | Firebase | Postman
-- 🔧 &nbsp; IntelliJ | Visual Studio code  | Git
-- 🖥 &nbsp; Swift | Illustrator | Photoshop | Figma
+- 💻 &nbsp; Java | Python | JavaScript | React | C | Golang | Kotlin | Swift
+- 🌐 &nbsp; React | HTML5 | CSS3 | JavaScript | TypeScript | NodeJS | Angular | Vue.js | Next.js | Express.js
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Firebase | Redis | Elasticsearch
+- ☁️ &nbsp; AWS | Google Cloud Platform | Azure | Docker | Kubernetes | Terraform
+- 🔧 &nbsp; IntelliJ | Visual Studio Code | Git | GitHub | GitLab | Jenkins | Gradle | Maven
+- 🖥 &nbsp; Swift | Illustrator | Photoshop | Figma | Adobe XD | Sketch
+- 📱 &nbsp; Android Development | iOS Development | React Native 
+- 🧠 &nbsp; Machine Learning & NLP: TensorFlow | PyTorch | Keras | Scikit-learn | Hugging Face | NLTK
+
+
 
 
 <h3> 😎 I Code With </h3>
