@@ -12,11 +12,11 @@
 
 - 🎓 &nbsp; I’m currently a Master's student majoring in Computer Science at Northeastern University.
 - 🌱 &nbsp; I'm an enthusiast in full-stack and cloud computing.
-- 💪 &nbsp; I'm skilled in Java and React as a full-stack developer, with proficiency in Node.js, Express, and MongoDB forming my primary technology stack.
+- 💪 &nbsp; I'm skilled in Java and JavaScript as a full-stack developer, working primarily with React, Node.js, and Express, while leveraging scalable cloud-based solutions.
 - 🤔 &nbsp; I like exploring new technologies and developing software solutions and quick hacks. 
 - 💼 &nbsp; I completed my Software Engineer summer internship at Amazon in 2023, where I had the opportunity to work on scalable, distributed software systems and gained practical experience with AWS, further solidifying my interest and expertise in cloud solutions.
-- 🖱️ &nbsp; I'm excited to join Salesforce as a Software Engineer Intern this summer where I will be part of the Financial Cloud team, focusing on developing and enhancing cloud technology solutions that empower financial services with more efficiency and scalability.
-- 😴 &nbsp; I believe music and workouts can be the ultimate solution for any stress.
+- ☁️ &nbsp; I joined Salesforce as a Software Engineer Intern this summer, where I optimized cloud technology solutions with a focus on accessibility, service ownership, and scalability, which empowered K-12 and higher education services across platforms.
+- 🙏 &nbsp; I'm a devoted Christian, and I find peace through bible, music, and workouts as my ultimate stress relievers.
 
 
 
